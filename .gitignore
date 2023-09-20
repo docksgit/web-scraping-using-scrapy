@@ -1,3 +1,7 @@
+# Files of creds and data
+bookscraper/booksdata.json
+bookscraper/settings.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
