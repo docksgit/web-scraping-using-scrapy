@@ -1,9 +1,5 @@
-# File outputs and includes cred
-/Users/rifqiramadhani/Documents/VSCode/web-scraping-using-scrapy/bookscraper/bookscraper/booksdata.json
-/Users/rifqiramadhani/Documents/VSCode/web-scraping-using-scrapy/bookscraper/bookscraper/settings.py
-
 # Byte-compiled / optimized / DLL files
-*/__pycache__/
+__pycache__/
 *.py[cod]
 *$py.class
 
